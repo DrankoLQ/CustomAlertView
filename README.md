@@ -11,7 +11,7 @@ Developed By
 
 * Daniel Luque Quintana
 
-<a href="https://twitter.com/DaniLuque20”>
+<a href="https://twitter.com/DaniLuque20">
   <img alt="Follow me on Twitter" src="https://image.freepik.com/iconos-gratis/twitter-logo_318-40209.jpg" height="60" width="60"/>
 </a>
 
