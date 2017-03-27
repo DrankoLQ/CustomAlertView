@@ -25,11 +25,10 @@ class CustomAlertView: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         alertTextField.becomeFirstResponder()
-        alertView.layer.cornerRadius = 15
-        self.view.backgroundColor = UIColor.black.withAlphaComponent(0.4)
     }
     
     override func viewWillAppear(_ animated: Bool) {
+        setupView()
         animateView()
     }
     
@@ -38,6 +37,11 @@ class CustomAlertView: UIViewController {
         cancelButton.addBorder(side: .Top, color: alertViewGrayColor, width: 1)
         cancelButton.addBorder(side: .Right, color: alertViewGrayColor, width: 1)
         okButton.addBorder(side: .Top, color: alertViewGrayColor, width: 1)
+    }
+    
+    func setupView() {
+        alertView.layer.cornerRadius = 15
+        self.view.backgroundColor = UIColor.black.withAlphaComponent(0.4)
     }
     
     func animateView() {
