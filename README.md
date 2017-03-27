@@ -5,6 +5,11 @@ Description
 --------------------------
 An app example to show how to extend UIViewController class and create your own AlertView. It uses Storyboards for UI design and delegate pattern to handle AlertView actions.
 
+Screenshots
+--------------------------
+
+[Default AlertView](./Screenshots/defaultAlertView.png)
+[Custom AlertView](./Screenshots/customAlertView.png)
 
 Developed By
 --------------------------
