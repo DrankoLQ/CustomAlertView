@@ -105,6 +105,9 @@
                                             <segment title="First"/>
                                             <segment title="Second"/>
                                         </segments>
+                                        <connections>
+                                            <action selector="onTapSegmentedControl:" destination="sFZ-PF-moY" eventType="valueChanged" id="9Ll-JQ-p69"/>
+                                        </connections>
                                     </segmentedControl>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nb3-2y-eW5">
                                         <rect key="frame" x="141" y="175" width="140" height="45"/>
@@ -155,6 +158,7 @@
                         <outlet property="cancelButton" destination="A14-IW-yze" id="woI-fS-9NT"/>
                         <outlet property="messageLabel" destination="iJe-te-LIp" id="68R-AC-imQ"/>
                         <outlet property="okButton" destination="Nb3-2y-eW5" id="wyw-ed-Y5F"/>
+                        <outlet property="segmentedControl" destination="yd7-ZG-abv" id="htE-cX-wHz"/>
                         <outlet property="titleLabel" destination="Q9A-L3-03r" id="rsB-P0-gFT"/>
                     </connections>
                 </viewController>

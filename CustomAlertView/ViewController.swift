@@ -51,8 +51,9 @@ class ViewController: UIViewController {
 
 extension ViewController: CustomAlertViewDelegate {
     
-    func okButtonTapped() {
-        print("okButtonTapped")
+    func okButtonTapped(selectedOption: String, textFieldValue: String) {
+        print("okButtonTapped with \(selectedOption) option selected")
+        print("TextField has value: \(textFieldValue)")
     }
     
     func cancelButtonTapped() {
