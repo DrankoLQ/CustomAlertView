@@ -8,8 +8,8 @@ An app example to show how to extend UIViewController class and create your own 
 Screenshots
 --------------------------
 
-[Default AlertView](./CustomAlertView/Screenshots/defaultAlertView.png)
-[Custom AlertView](./CustomAlertView/Screenshots/customAlertView.png)
+![Default AlertView](./CustomAlertView/Screenshots/defaultAlertView.png)
+![Custom AlertView](./CustomAlertView/Screenshots/customAlertView.png)
 
 Developed By
 --------------------------
