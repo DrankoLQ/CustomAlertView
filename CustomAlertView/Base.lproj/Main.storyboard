@@ -90,7 +90,6 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="A14-IW-yze">
                                         <rect key="frame" x="0.0" y="175" width="140" height="45"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="140" id="HeW-ou-TbO"/>
                                             <constraint firstAttribute="height" constant="45" id="geR-Zq-R9j"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
