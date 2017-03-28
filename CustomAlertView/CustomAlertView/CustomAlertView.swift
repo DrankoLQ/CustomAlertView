@@ -28,11 +28,13 @@ class CustomAlertView: UIViewController {
     }
     
     override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
         setupView()
         animateView()
     }
     
     override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
         view.layoutIfNeeded()
         cancelButton.addBorder(side: .Top, color: alertViewGrayColor, width: 1)
         cancelButton.addBorder(side: .Right, color: alertViewGrayColor, width: 1)
