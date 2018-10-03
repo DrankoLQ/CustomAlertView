@@ -113,7 +113,7 @@
 				TargetAttributes = {
 					33BAC5CA1E7A839A00A05BDD = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = AQ3UP5S566;
+						DevelopmentTeam = 5YZJGH2VBM;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -279,7 +279,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AQ3UP5S566;
+				DEVELOPMENT_TEAM = 5YZJGH2VBM;
 				INFOPLIST_FILE = CustomAlertView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dluque.CustomAlertView;
@@ -292,7 +292,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AQ3UP5S566;
+				DEVELOPMENT_TEAM = 5YZJGH2VBM;
 				INFOPLIST_FILE = CustomAlertView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dluque.CustomAlertView;
